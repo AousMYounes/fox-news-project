@@ -1,0 +1,59 @@
+
+
+
+
+
+.c1{
+  text-decoration: none;
+  color: #fff;
+  margin-bottom: 20px;
+
+}
+.c1:hover{
+  color: goldenrod;
+}
+.c2{
+  text-decoration: none;
+  color: goldenrod;
+}
+.c2:hover{
+  color: gold;
+}
+.c3{
+  text-decoration: none;
+  color: #fff;
+ 
+  font-size: 20px;
+  text-align: center;
+  
+}
+.c3:hover{
+  color:#fff
+}
+.mm{
+  margin-left: 10px;
+}
+.social-media-button{
+ display: inline;
+ justify-content: center;
+ align-items: center;
+
+  
+}
+form{
+  margin-top: 10px;
+}
+
+.c4{
+  text-decoration: none;
+  color: #fff;
+ 
+
+}
+.c4:hover{
+  color: #fff;
+}
+.sp11{
+  color: goldenrod;
+  
+}
